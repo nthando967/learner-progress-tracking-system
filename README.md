@@ -1,11 +1,11 @@
-#Learner Progress Tracking System
+# Learner Progress Tracking System
 
-#Overview
+# Overview
 
 This project is a Python-based learner management system designed to manage learner records and academic performance.
 
 
-#Features
+# Features
 -Add learners
 
 -Search learners
@@ -21,7 +21,7 @@ This project is a Python-based learner management system designed to manage lear
 -Determine learner performance
 
 
-#Technologies Used
+# Technologies Used
 -Python
 
 -Tkinter
